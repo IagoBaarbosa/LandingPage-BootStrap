@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to bottom, #e4ebe1, #edf5f1, #D9D9D9, #939DA6);
+}
+
+.carousel-item {
+    height: 90vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .logo {
+      height: 100px;
+  }
+
+.linkss{
+    color: white;
+    text-decoration: none;
+}
+
+.linkss :visited{
+    color: white;
+}
+
+.linkss:hover{
+    color: rgb(194, 189, 189);
+}
+
+.links_2{
+    color: rgb(110, 108, 108);
+    text-decoration: none;
+}
+
+.curso{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(160, 156, 156);
+    font-size: large;
+}
